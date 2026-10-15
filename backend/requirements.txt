@@ -1,0 +1,11 @@
+fastapi==0.115.6
+uvicorn==0.34.0
+pydantic-settings==2.7.0
+SQLAlchemy==2.0.54
+PyMySQL[rsa]==1.1.2
+alembic==1.17.2
+python-multipart==0.0.20
+PyMuPDF==1.28.2
+qdrant-client==1.19.1
+fastembed==0.8.0
+httpx==0.28.1
